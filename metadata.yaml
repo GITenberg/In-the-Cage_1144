@@ -1,0 +1,32 @@
+_repo: In-the-Cage_1144
+_version: 0.0.1
+creator:
+  author:
+    agent_name: James, Henry
+    birthdate: 1843
+    deathdate: 1916
+    gutenberg_agent_id: '113'
+    url: http://www.gutenberg.org/2009/agents/113
+    wikipedia: http://en.wikipedia.org/wiki/Henry_James
+description: Long recognized as one of the most refined and insightful American writers
+  of the nineteenth century, Henry James turns his keen powers of perception and observation
+  to the case of a London telegraph operator in the novella In the Cage. Over time,
+  the operator becomes adept at inferring personal details from customers' messages
+  and develops an unhealthy interest in the quotidian lives of those she serves. A
+  masterpiece of psychological subtlety, In the Cage is a must-read for fans of James'
+  work.
+gutenberg_issued: '1997-12-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '1144'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Telegraphers -- Fiction'
+- !lcsh 'Didactic fiction'
+- !lcc 'PS'
+- GITenberg
+title: In the Cage
+url: http://www.gutenberg.org/ebooks/1144
